@@ -1,13 +1,8 @@
 #EXTM3U
 #EXTINF:-1,RTK 1 HD
 http://84.22.32.190:8007/rtk1hd
-#EXTINF:-1,RTV 21 HD
-http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/1079.ts
-#EXTINF:-1,RTV21
-http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/1080.ts
-#EXTINF:-1,RTV 21 MAQEDONIA HD
-http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/1077.ts
-#EXTINF:-1,KTV
-http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/1076.ts
-#EXTINF:-1,TOP CHANNEL HD
-http://54.36.104.62:25461/live/tP5O7XG8np/ZYnCowqhmb/1073.ts
+#EXTINF:-1,AL: RTK 1 HD http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1304 
+#EXTINF:-1,AL: RTK 1 http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/26390 
+#EXTINF:-1,AL: RTK 2 http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1043 
+#EXTINF:-1,AL: RTK 3 HD http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1044 
+#EXTINF:-1,AL: RTK 4 HD http://client.ksportiptv.com:1557/alesionmaterazivazhdim/tSnLtvVXnB/1045
